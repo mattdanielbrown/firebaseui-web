@@ -8,7 +8,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "imagemin": "^5.2.2",
-    "imagemin-optipng": "^5.2.1",
+    "imagemin-optipng": "^6.0.0",
     "sprity": "^1.0.8",
     "svgexport": "^0.3.2"
   }
