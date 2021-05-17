@@ -10,6 +10,6 @@
     "imagemin": "^5.2.2",
     "imagemin-optipng": "^5.2.1",
     "sprity": "^1.0.8",
-    "svgexport": "^0.3.2"
+    "svgexport": "^0.4.1"
   }
 }
